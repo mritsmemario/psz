@@ -5,7 +5,7 @@ local isServer = "__SERVER" -- folder name will be changed into __SERVER
 local GetReplicatedFolder = "__THINGS"
 local DataSettingsModule = "1A - RizeProductions"
 local Maps = "__MAPS"; -- this will changed to __WORLDS
-local GUI = "calvin" -- get gui from the folder name 
+local GUI = "rizew" -- get gui from the folder name 
 
 local Bypass = {
 	Scripts = {
