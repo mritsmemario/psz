@@ -4,7 +4,7 @@ game.ReplicatedStorage:WaitForChild("WaitWhat?").Name = "Framework"
 local isServer = "__SERVER" -- folder name will be changed into __SERVER
 local GetReplicatedFolder = "__THINGS"
 local DataSettingsModule = "1A - RizeProductions"
-local Maps = "__MAPS"; -- this will changed to __WORLDS
+local Maps = "reinder"; -- this will changed to __WORLDS
 local GUI = "rizew" -- get gui from the folder name 
 
 local Bypass = {
